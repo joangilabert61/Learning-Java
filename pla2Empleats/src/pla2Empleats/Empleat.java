@@ -6,7 +6,7 @@ public class Empleat {
 	private String DNI;
 	private int SALARI;
 
-	public Empleat(String WNom, String WDni, int WSalari) 
+	Empleat(String WNom, String WDni, int WSalari) 
 		{
 		super();
 		NOM = WNom;
@@ -37,3 +37,4 @@ public class Empleat {
 	
 	
 }
+
